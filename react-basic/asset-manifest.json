@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/www.sohab-hh.com/react-basic/static/css/main.d1b05096.chunk.css",
+    "main.js": "/www.sohab-hh.com/react-basic/static/js/main.5e898fca.chunk.js",
+    "main.js.map": "/www.sohab-hh.com/react-basic/static/js/main.5e898fca.chunk.js.map",
+    "runtime-main.js": "/www.sohab-hh.com/react-basic/static/js/runtime-main.652adf22.js",
+    "runtime-main.js.map": "/www.sohab-hh.com/react-basic/static/js/runtime-main.652adf22.js.map",
+    "static/js/2.6baf1f20.chunk.js": "/www.sohab-hh.com/react-basic/static/js/2.6baf1f20.chunk.js",
+    "static/js/2.6baf1f20.chunk.js.map": "/www.sohab-hh.com/react-basic/static/js/2.6baf1f20.chunk.js.map",
+    "index.html": "/www.sohab-hh.com/react-basic/index.html",
+    "precache-manifest.a51f324f706b9c5376596ea92c3aca8d.js": "/www.sohab-hh.com/react-basic/precache-manifest.a51f324f706b9c5376596ea92c3aca8d.js",
+    "service-worker.js": "/www.sohab-hh.com/react-basic/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/www.sohab-hh.com/react-basic/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6baf1f20.chunk.js.LICENSE.txt": "/www.sohab-hh.com/react-basic/static/js/2.6baf1f20.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/www.sohab-hh.com/react-basic/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.652adf22.js",
+    "static/js/2.6baf1f20.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.5e898fca.chunk.js"
+  ]
+}
