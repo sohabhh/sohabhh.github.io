@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://localhost:8030/www.sohab-hh.com';
-$config['base_url'] = 'https://sohabhh/sohabhh.github.io/';
+$config['base_url'] = 'https://sohabhh.github.io/';
 
 /*
 |--------------------------------------------------------------------------
